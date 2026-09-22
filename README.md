@@ -7,8 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=vk1337-btsk&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vk1337-btsk&theme=dark&background=000000)](https://git.io/streak-stats)
-
 # 💫 About Me (Обо мне)
 
 Привет! Я python backend разработчик с коммерческим опытом более 3-х лет. Работал с FastAPI, Django / DRF, SQLAlchemy async, PostgreSQL / Redis / MongoDB / MySQL, Celery, Docker. Участвовал в переходе монолита на микросервисную архитектуру, оптимизировал SQL и асинхронные запросы, писал тесты и документацию. Ищу middle-позицию в продуктовой команде.
@@ -32,19 +30,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### _📚 Frameworks and Libraries (Фреймворки и библиотеки)_
+### _📚 Frameworks, Libraries and Technologies (Фреймворки, библиотеки и технологии)_
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=FastAPI&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=Django&logoColor=black) ![DRF](https://img.shields.io/badge/DjangoRestFramework-%236065FA.svg?style=flat&logo=DjangoRestFramework&logoColor=!) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat&logo=SQLAlchemy&logoColor=black) ![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?style=flat&logo=Celery&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
+![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=flat&logo=Pydantic&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=flat&logo=Pydantic&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black) ![Scalar](https://img.shields.io/badge/Scalar-%23000000.svg?style=flat&logo=scalar&logoColor=white)
 
-
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black)
-![Scalar](https://img.shields.io/badge/Scalar-%23000000.svg?style=flat&logo=scalar&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-%232C4F7C.svg?style=flat&logo=SOLID&logoColor=white) ![KISS](https://img.shields.io/badge/KISS-%234ea94b.svg?style=flat&logo=SOLID&logoColor=white) ![DRY](https://img.shields.io/badge/DRY-%23FFCC01.svg?style=flat&logo=SOLID&logoColor=white)
 
 ### _📂 Database_
 
@@ -56,8 +52,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
 
-![Poetry](https://img.shields.io/badge/Poetry-%2360A5FA.svg?style=flat&logo=Poetry&logoColor=white)
-![UV](https://img.shields.io/badge/UV-%2360A5FA.svg?style=flat&logo=UV&logoColor=white) ![pipx](https://img.shields.io/badge/pipx-%232CFFAA.svg?style=flat&logo=pipx&logoColor=black)
+![Poetry](https://img.shields.io/badge/Poetry-%2360A5FA.svg?style=flat&logo=Poetry&logoColor=white) ![UV](https://img.shields.io/badge/UV-%2360A5FA.svg?style=flat&logo=UV&logoColor=white) ![pipx](https://img.shields.io/badge/pipx-%232CFFAA.svg?style=flat&logo=pipx&logoColor=black)
 
 ### 🧪 _Testing (Тестирование)_
 
@@ -65,13 +60,15 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![ApiDog](https://img.shields.io/badge/ApiDog-%230A9EDC.svg?style=flat&logo=apidog&logoColor=white)
 
-### Technologies
-
-![SOLID](https://img.shields.io/badge/SOLID-%232C4F7C.svg?style=flat&logo=SOLID&logoColor=white)
-
 ### _Others (Прочее)_
 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=Prometheus&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=vk1337-btsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vk1337-btsk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vk1337-btsk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
